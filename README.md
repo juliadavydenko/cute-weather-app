@@ -1,7 +1,9 @@
 # cute-weather-app
 Is it okay today to go outside? :) Check on my website! :)
 
-https://juliadavydenko.github.io/cute-weather-app-API/
+
+<link> https://juliadavydenko.github.io/cute-weather-app-API/ </link>
+
 
 
 
